@@ -1,5 +1,9 @@
+### C++ ###
 # Prerequisites
 *.d
+
+# Database
+*.db
 
 # Compiled Object files
 *.slo
@@ -30,3 +34,6 @@
 *.exe
 *.out
 *.app
+
+build/
+.vscode/
