@@ -7,8 +7,11 @@ In futer posibly I will add a user account to hand over the books and have the r
 
 
 I was using CMake to run this whole project. In my CMake I provide only way thay you have to installed the library on your own.
-https://www.wxwidgets.org/
+
+wxWidgets: https://www.wxwidgets.org/
+
 SQLite3: https://www.sqlite.org/index.html
+
 This is the way how do to that.
 
 CMake:
