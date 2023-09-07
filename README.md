@@ -18,7 +18,7 @@ SQLite3: https://www.sqlite.org/index.html
 
 
 
-This is the way how do to that.
+This is the way to do that.
 
 
 
